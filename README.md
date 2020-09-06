@@ -1,8 +1,10 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/EvGT187/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Evan Taylor, a current front end developer with extensive experience in CMS, UX & UI design, and the overall production behind a website. My background in web development aids in my creative and analytical flair.  I consider myself as a polymath, constantly improving my academic and practical knowledge in technological advances and developments. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My overall passion for technology has bred a desire to transition from web development and design to data science. I am intrigued by how data, Artificial Intelligence (AI), and machine learning shapes everyday life. I am motivated by the future and how I, an aspiring data scientist, could aid technological advancements to improve society, economically and socially.  AI can and will be used for various sectors that have fallen behind such as agriculture, finance, and healthcare to name a few, especially within developing countries. 
+
+I am motivated by the future and what part I could play in making it better for mankind. The fourth industrial revolution is here and I want to be on the cutting edge of technology making breakthroughs and delivering much-needed impact to not just business, but society as a whole.
 
 ### Markdown
 
