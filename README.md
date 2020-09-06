@@ -6,23 +6,23 @@ My overall passion for technology has bred a desire to transition from web devel
 
 I am motivated by the future and what part I could play in making it better for mankind. The fourth industrial revolution is here and I want to be on the cutting edge of technology making breakthroughs and delivering much-needed impact to not just business, but society as a whole.
 
-### Contact
+## Contact
 
 - Contact Number: 083 377 7473
 - Email: e.taylor187@gmail.com
 - Github: [Github](https://github.com/EvGT187)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/evan-gabriel-taylor/)
 
-### Experience
+## Experience
 - 1 Year Graphic Design and DTP
 - 5 years Web Development
 
-### Education
+## Education
 - Diploma - Centre for Fine Arts Animation and Design
 - Certificate - Keyline Graphics Web Development
 - Certificate - HyperionDev Data Science Bootcamp
 
-### Skills
+## Skills
 - Python
 - SQL
 - NumPy and Pandas
@@ -36,20 +36,16 @@ I am motivated by the future and what part I could play in making it better for 
 - Basic Knowledge of Kubernetes
 - Experience in Working with Agile Methodology
 
-### Projects
-**Automobile EDA**
-* This project was an exploratory data analysis on automobile manufacturer information. The dataset contained many variables that provided clear insight into the top car manufacturers’ practices and production.
-
+## Projects
 [Automobile EDA](https://github.com/EvGT187/Automobile-EDA)
+* This project was an exploratory data analysis on automobile manufacturer information. The dataset contained many variables that provided clear insight into the top car manufacturers’ practices and production.
 ---
 
-**Crunchbase EDA**
-* The crunch base exploratory data analysis was based on financial data gained from the site in question. Crunchbase collects funding data from various tech companies that can be viewed by investors and the public alike.
 
 [Crunchbase EDA](https://github.com/EvGT187/Crunchbase-EDA)
+* The crunch base exploratory data analysis was based on financial data gained from the site in question. Crunchbase collects funding data from various tech companies that can be viewed by investors and the public alike.
 ---
 
-**IMDB RNN**
-* This recurrent neural network project is based upon a dataset from IMDB. IMDB is a site owned by Amazon that rates movies, actors, games, and other media. These ratings are publicly viewable and are used by people to find movies and gain insight into media they consider consuming.
 
 [IMDB RNN](https://github.com/EvGT187/IMDB-RNN)
+* This recurrent neural network project is based upon a dataset from IMDB. IMDB is a site owned by Amazon that rates movies, actors, games, and other media. These ratings are publicly viewable and are used by people to find movies and gain insight into media they consider consuming.
