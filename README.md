@@ -38,16 +38,16 @@ I am motivated by the future and what part I could play in making it better for 
 
 ### Projects
 **Automobile EDA**
-This project was an exploratory data analysis on automobile manufacturer information. The dataset contained many variables that provided clear insight into the top car manufacturers’ practices and production.
+* This project was an exploratory data analysis on automobile manufacturer information. The dataset contained many variables that provided clear insight into the top car manufacturers’ practices and production.
 
 [Automobile EDA](https://github.com/EvGT187/Automobile-EDA)
 
 **Crunchbase EDA**
-The crunch base exploratory data analysis was based on financial data gained from the site in question. Crunchbase collects funding data from various tech companies that can be viewed by investors and the public alike.
+* The crunch base exploratory data analysis was based on financial data gained from the site in question. Crunchbase collects funding data from various tech companies that can be viewed by investors and the public alike.
 
 [Crunchbase EDA](https://github.com/EvGT187/Crunchbase-EDA)
 
 **IMDB RNN**
-This recurrent neural network project is based upon a dataset from IMDB. IMDB is a site owned by Amazon that rates movies, actors, games, and other media. These ratings are publicly viewable and are used by people to find movies and gain insight into media they consider consuming.
+* This recurrent neural network project is based upon a dataset from IMDB. IMDB is a site owned by Amazon that rates movies, actors, games, and other media. These ratings are publicly viewable and are used by people to find movies and gain insight into media they consider consuming.
 
 [IMDB RNN](https://github.com/EvGT187/IMDB-RNN)
