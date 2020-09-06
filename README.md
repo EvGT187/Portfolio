@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## About Me
 
 My name is Evan Taylor, a current front end developer with extensive experience in CMS, UX & UI design, and the overall production behind a website. My background in web development aids in my creative and analytical flair.  I consider myself as a polymath, constantly improving my academic and practical knowledge in technological advances and developments. 
 
@@ -6,22 +6,43 @@ My overall passion for technology has bred a desire to transition from web devel
 
 I am motivated by the future and what part I could play in making it better for mankind. The fourth industrial revolution is here and I want to be on the cutting edge of technology making breakthroughs and delivering much-needed impact to not just business, but society as a whole.
 
-### Markdown
+### Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Contact Number: 083 377 7473
+Email: e.taylor187@gmail.com
+Github: [Github](https://github.com/EvGT187)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/evan-gabriel-taylor/)
 
-```markdown
-Syntax highlighted code block
+### Experience
+- 1 Year Graphic Design and DTP
+- 5 years Web Development
 
-# Header 1
-## Header 2
-### Header 3
+### Education
+- Diploma - Centre for Fine Arts Animation and Design
+- Certificate - Keyline Graphics Web Development
+- Certificate - HyperionDev Data Science Bootcamp
 
-- Bulleted
-- List
+### Skills
+- Python
+- SQL
+- NumPy and Pandas
+- SciKit Learn
+- Basic Tableau
+- Tensorflow and Keras Experience
+- DevOps and CICD Experience
+- GitHub Experience
+- Comfortable with Leadership
+- Working Knowledge of Docker
+- Basic Knowledge of Kubernetes
+- Experience in Working with Agile Methodology
 
-1. Numbered
-2. List
+### Projects
+##### Automobile EDA
+This project was an exploratory data analysis on automobile manufacturer
+information. The dataset contained many variables that provided clear insight
+into the top car manufacturers’ practices and production.
+
+[Automobile EDA]https://github.com/EvGT187/Automobile-EDA
 
 **Bold** and _Italic_ and `Code` text
 
