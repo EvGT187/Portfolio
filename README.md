@@ -8,10 +8,10 @@ I am motivated by the future and what part I could play in making it better for 
 
 ### Contact
 
-Contact Number: 083 377 7473
-Email: e.taylor187@gmail.com
-Github: [Github](https://github.com/EvGT187)
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/evan-gabriel-taylor/)
+- Contact Number: 083 377 7473
+- Email: e.taylor187@gmail.com
+- Github: [Github](https://github.com/EvGT187)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/evan-gabriel-taylor/)
 
 ### Experience
 - 1 Year Graphic Design and DTP
@@ -38,23 +38,16 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/evan-gabriel-taylor/)
 
 ### Projects
 ##### Automobile EDA
-This project was an exploratory data analysis on automobile manufacturer
-information. The dataset contained many variables that provided clear insight
-into the top car manufacturers’ practices and production.
+This project was an exploratory data analysis on automobile manufacturer information. The dataset contained many variables that provided clear insight into the top car manufacturers’ practices and production.
 
-[Automobile EDA]https://github.com/EvGT187/Automobile-EDA
+[Automobile EDA](https://github.com/EvGT187/Automobile-EDA)
 
-**Bold** and _Italic_ and `Code` text
+##### Crunchbase EDA
+The crunch base exploratory data analysis was based on financial data gained from the site in question. Crunchbase collects funding data from various tech companies that can be viewed by investors and the public alike.
 
-[Link](url) and ![Image](src)
-```
+[Crunchbase EDA](https://github.com/EvGT187/Crunchbase-EDA)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+##### IMDB RNN
+This recurrent neural network project is based upon a dataset from IMDB. IMDB is a site owned by Amazon that rates movies, actors, games, and other media. These ratings are publicly viewable and are used by people to find movies and gain insight into media they consider consuming.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EvGT187/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[IMDB RNN](https://github.com/EvGT187/IMDB-RNN)
