@@ -47,3 +47,6 @@ The crunch base exploratory data analysis was based on financial data gained fro
 
 [IMDB RNN](https://github.com/EvGT187/IMDB-RNN)
 This recurrent neural network project is based upon a dataset from IMDB. IMDB is a site owned by Amazon that rates movies, actors, games, and other media. These ratings are publicly viewable and are used by people to find movies and gain insight into media they consider consuming.
+
+[US Arrests PCA](https://github.com/EvGT187/US-Arrests-EDA)
+This project was inspired by the recent protests against police brutality in America. I decided to take a closer look at the statistics to base my facts. A very insightful yet daunting project. Actual police murder stats aren't available, skewed and misreported as shown [here](https://www.youtube.com/watch?v=zaD84DTGULo&t=81s&ab_channel=LastWeekTonight) so this was the next best thing.
