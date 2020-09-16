@@ -50,3 +50,6 @@ This recurrent neural network project is based upon a dataset from IMDB. IMDB is
 
 [US Arrests PCA](https://github.com/EvGT187/US-Arrests-EDA)
 This project was inspired by the recent protests against police brutality in America. I decided to take a closer look at the statistics to base my facts. A very insightful yet daunting project. Actual police murder stats aren't available, skewed and misreported as shown [here](https://www.youtube.com/watch?v=zaD84DTGULo&t=81s&ab_channel=LastWeekTonight). So this was the next best thing.
+
+[Titanic Tableau](https://github.com/EvGT187/Titanic-Tableau)
+This project is more visualisation based project than anything else. I took this chance to use the very popular Tableau application to display the mortality rate of the Titanic cruise ship. The Tableau file and dataset can be downloaded to examine further.
