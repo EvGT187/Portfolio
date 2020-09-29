@@ -45,7 +45,7 @@ As someone who did not study pure maths in high school, I found my recent studie
 
 
 ## Projects
-#### Web Development
+### Web Development
 [The Concierge](https://www.the-concierge.co.za/)
 The Concierge is boutique-style accommodation in my hometown, Durban. The client requested  a website that reflected the quality of the establishment as well as their services and ethos. The stock images, together with the instructions provided by the client sparked my creative insight. I immediately envisioned a quirky but luxurious theme for the website, a true reflection of the establishment.
 
@@ -59,7 +59,7 @@ Sumaiya Essa is a dietician based in Umhlanga. She has a passion for people, pro
 Frimax is a well-known brand that  manufactures some of South Africa’s favourite snacks. They pride themselves in providing the best snacks for pastimes, movies, parties or just to satisfy a craving. I envisioned a vibrant website to reflect their South African pride. Snacks remind me of parties, I wanted this website to feel like one!
 
 
-#### Data Science
+### Data Science
 [Automobile EDA](https://github.com/EvGT187/Automobile-EDA)
 This project was an exploratory data analysis on automobile manufacturer information. The dataset contained many variables that provided clear insight into the top car manufacturers’ practices and production.
 
