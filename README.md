@@ -46,9 +46,6 @@ As someone who did not study pure maths in high school, I found my recent studie
 
 ## Projects
 ### Web Development
-[The Concierge](https://www.the-concierge.co.za/)
-The Concierge is boutique-style accommodation in my hometown, Durban. The client requested  a website that reflected the quality of the establishment as well as their services and ethos. The stock images, together with the instructions provided by the client sparked my creative insight. I immediately envisioned a quirky but luxurious theme for the website, a true reflection of the establishment.
-
 [Mintys Fabrics](https://www.mintysfabrics.co.za/)
 Minty’s Fabrics is a high end fashion and fabric boutique. They provide bespoke evening gowns, wedding dresses, luxurious fabrics and accessories. My interpretation of this particular client was whimsical yet elegant and clean, I believe I have delivered on that. 
 
